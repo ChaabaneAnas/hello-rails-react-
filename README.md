@@ -125,7 +125,7 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-- Ruby and Rails on you operating system eg. for  [Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-install-ruby-on-rails-with-rbenv-on-ubuntu-20-04)
+- [Ruby and Rails on you operating system eg. for  Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-install-ruby-on-rails-with-rbenv-on-ubuntu-20-04)
 - [Node.js](https://nodejs.dev/en/) installed
 - [Yarn](https://classic.yarnpkg.com/lang/en/docs/install/#debian-stable)
 - [PostgreSQL](https://www.postgresql.org/) database installed
