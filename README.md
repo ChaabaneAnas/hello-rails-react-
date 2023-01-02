@@ -249,6 +249,4 @@ We would like to thank [Microverse](https://www.microverse.org/) for inspiring t
 
 This project is [MIT](./LICENSE) licensed.
 
-_NOTE: we recommend using the [MIT license](LICENSE.md)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
