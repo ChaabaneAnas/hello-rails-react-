@@ -7,7 +7,7 @@ class Api::V1::GreetingsController < ApplicationController
   def show
     greeting = Greeting.find(params[:id])
     if greeting.nil?
-      render json: { error: "Greeting not found" }, status: :not_found
+      render json: { error: 'Greeting not found' }, status: :not_found
     else
       render json: greeting, status: :ok
     end
