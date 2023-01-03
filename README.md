@@ -59,7 +59,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 Rails_React <a name="about-project"></a>
 
-**RailsReact**  is web app to display greetings from rails API with react as the front-end using webpack in one app
+**RailsReact** is web app to display greetings from rails API with react as the front-end using webpack in one app
 
 ## 🛠 Built With <a name="built-with"></a>
 
