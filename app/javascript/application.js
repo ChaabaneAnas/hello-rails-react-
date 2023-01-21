@@ -1,8 +1,16 @@
-import React from "react";
-import ReactDOM from "react-dom";
+import React from 'react';
+import App from './App';
+import ReactDOM from 'react-dom';
+import { BrowserRouter } from "react-router-dom";
+import { Provider } from 'react-redux';
+import store from './Redux/store';
 
-function App() {
-  return <h1>Hello World!</h1>;
-}
 
-ReactDOM.render(<App />, document.getElementById("root"));
+ReactDOM.render(
+  <Provider store={store}>
+    <BrowserRouter>
+      <App />
+    </BrowserRouter>
+  </Provider>,
+  document.getElementById('root'),
+);
